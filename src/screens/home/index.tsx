@@ -49,7 +49,6 @@ export const Home = () => {
         ]
       );
     }
-    console.log('CONFLITO AQUI!!!');
     addParticipant();
   };
 
